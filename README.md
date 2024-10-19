@@ -1,0 +1,1 @@
+# react-native-firebase-duplicate-ios18-fix
